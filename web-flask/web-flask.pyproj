@@ -63,7 +63,6 @@
     <Content Include="web_flask\static\scripts\respond.js" />
     <Content Include="web_flask\static\scripts\respond.min.js" />
     <Content Include="web_flask\static\scripts\_references.js" />
-    <Content Include="web_flask\templates\about.html" />
     <Content Include="web_flask\templates\login.html" />
     <Content Include="web_flask\templates\index.html" />
     <Content Include="web_flask\templates\layout.html" />
